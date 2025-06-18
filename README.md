@@ -1,4 +1,5 @@
-# 📘 Macroeconomic Analysis of the US Economy: Do It Yourself (DIY) with AI
+# 📘 Macroeconomic Analysis of the US Economy:
+Do It Yourself (DIY) with AI
 
 ![cover](cover.png)
 
