@@ -40,8 +40,6 @@ This book is an upgrade of the author's course projects on AI during 2024–2025
 - Anaconda3 📦 Install Anaconda from: [https://www.anaconda.com/download](https://www.anaconda.com/download)
 - Common ML/DL libraries (e.g., pandas, scikit-learn, keras)
 
-📦 Install Anaconda from: [https://www.anaconda.com/download](https://www.anaconda.com/download)
-
 ---
 
 ## 📘 License and Usage
