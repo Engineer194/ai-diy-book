@@ -1,5 +1,5 @@
 # 📘 Macroeconomic Analysis of the US Economy
-Do It Yourself (DIY) with AI, Version: 1.0, June 2025
+Do It Yourself (DIY) with AI   => Version: 1.0, June 2025
 
 ![cover](cover.png)
 
