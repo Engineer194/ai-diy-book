@@ -1,4 +1,4 @@
-# 📘 Macroeconomic Analysis of the US Economy:
+# 📘 Macroeconomic Analysis of the US Economy
 Do It Yourself (DIY) with AI
 
 ![cover](cover.png)
@@ -21,11 +21,11 @@ If you found this book useful and want to support future editions:
 
 ## 📑 Table of Contents
 
-- **Chapter 1**: Introduction – page 4  
-- **Chapter 2**: Macroeconomic Analysis of the US Economy – part 1, page 5  
-- **Chapter 3**: Analysis of the US Economy – part 2 – page 42  
-- **Chapter 4**: Analysis of the US Economy – part 3 – page 82  
-- **Chapter 5**: Appendices – page 133  
+- **Chapter 1**: Introduction
+- **Chapter 2**: Macroeconomic Analysis of the US Economy – part 1 (Data Science project)
+- **Chapter 3**: Analysis of the US Economy – part 2 (Machine Learning project)
+- **Chapter 4**: Analysis of the US Economy – part 3 (Deep Learning project)
+- **Chapter 5**: Appendices
 
 ---
 
@@ -56,4 +56,5 @@ If you'd like to request permission for extended use, please contact the author.
 
 ---
 
+Version: 1.0
 **Created with passion. Updated with purpose. Enjoy the read — and feel free to experiment with the data!**
