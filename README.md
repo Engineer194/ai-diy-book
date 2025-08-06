@@ -44,7 +44,7 @@ This book is an upgrade of the author's course projects on AI during 2024–2025
 
 ## 📘 License and Usage
 
-This book is officially distributed through the author's GitHub repository and other approved platforms.  
+This book is officially distributed through the author's GitHub repository.  
 **Redistribution from unofficial sources is not permitted.**
 
 Citation, linking, or quoting is allowed under the terms of the included [LICENSE](./LICENSE).  
